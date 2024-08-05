@@ -1,5 +1,4 @@
 # SEMBG
-# NFE (Network Fission Ensembles)
 
 ## Introduction
 
