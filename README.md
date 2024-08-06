@@ -32,7 +32,7 @@ python train_SEMBG.py
 @article{SEMBG,
   title={Low-Cost Self-Ensembles Based on Multi-Branch Transformation and Grouped Convolution},
   author ={H. {Lee} and J. -S. {Lee}},
-  journal = {arXiv preprint	arXiv:1912.02757}
+  journal = {arXiv preprint arXiv:2408.02307}
   year={2024},
 }
 ```
